@@ -2,13 +2,11 @@
 
 Easy to use app which just shows list of **cryptocurrencies**, their present market values along with their **Candle Chart**. I have used [CoinMarketCap API](https://coinmarketcap.com/api/) as datasource for this application. You can bookmark some currencies to watchlist which appear on the  **Watchlist screen**. 
 
----
 
 ## App Compatibility
 
 Android device running with Android OS 6.0 ([API Level 23](https://developer.android.com/about/versions/marshmallow/android-6.0)) or above. Designed for Phones and NOT for Tablets.
 
----
 
 ## Rubric followed for the Project
 
@@ -27,7 +25,6 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 * When new cryptocurrency data is fetched, the main screen properly updates the new data.
 * Check whether connected to internet or not. Also, validate for any occurrence of bad server response or lack of response.
 
-#
 
 ### Things explored/developed in addition to the above defined Rubric
 
