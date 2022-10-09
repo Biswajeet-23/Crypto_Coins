@@ -48,8 +48,6 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 	- [Picasso](https://github.com/square/picasso) - For loading images into `ImageView`. 
 	- [Gson](https://github.com/google/gson) - For converting JSON to POJO and vice versa. 
 
----
-
 ## Design
 Home Page | Details Page | Market Page | Watchlist
 --- | --- | --- | --- |
