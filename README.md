@@ -53,7 +53,7 @@ Android device running with Android OS 6.0 ([API Level 23](https://developer.and
 ## Design
 Home Page | Details Page | Market Page | Watchlist
 --- | --- | --- | --- |
-![](https://github.com/Biswajeet-23/Crypto_Coins/blob/https_/github.com/Biswajeet-23/Crypto_Coins/ScreenShots/Home.png) | ![](https://github.com/Biswajeet-23/News_Planet/blob/master/Designs/Details.png) | ![](https://github.com/Biswajeet-23/Crypto_Coins/blob/https_/github.com/Biswajeet-23/Crypto_Coins/ScreenShots/Market.png) | ![](https://github.com/Biswajeet-23/Crypto_Coins/blob/https_/github.com/Biswajeet-23/Crypto_Coins/ScreenShots/Watchlist.png)
+![](https://github.com/Biswajeet-23/Crypto_Coins/blob/https_/github.com/Biswajeet-23/Crypto_Coins/ScreenShots/Home.png) | ![](https://github.com/Biswajeet-23/Crypto_Coins/blob/https_/github.com/Biswajeet-23/Crypto_Coins/ScreenShots/Details.png) | ![](https://github.com/Biswajeet-23/Crypto_Coins/blob/https_/github.com/Biswajeet-23/Crypto_Coins/ScreenShots/Market.png) | ![](https://github.com/Biswajeet-23/Crypto_Coins/blob/https_/github.com/Biswajeet-23/Crypto_Coins/ScreenShots/Watchlist.png)
 
 ## Install
 
